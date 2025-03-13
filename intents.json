@@ -1,0 +1,110 @@
+[
+    {
+        "tag": "cpr",
+        "patterns": ["How to do CPR?", "CPR steps", "Help for cardiac arrest","cpr"],
+        "responses": [
+            "1. Call 112 . \n 2. Push hard and fast on the center of the chest (100-120 compressions per minute). \n 3. Give 2 breaths after every 30 compressions. \n 4. Continue until help arrives."
+        ]
+    },
+    {
+        "tag": "choking",
+        "patterns": ["What to do if choking?", "Help for choking", "Choking first aid","chok", "choking"],
+        "responses": [
+            "1. Stand behind the person. \n  2. Give 5 back blows between their shoulder blades. \n 3. Perform 5 abdominal thrusts (Heimlich maneuver). \n 4. Call 112 if the object doesn’t dislodge."
+        ]
+    },
+    {
+        "tag": "burn",
+        "patterns": ["Burn treatment", "What to do for burns?", "First aid for burns","burn"],
+        "responses": [
+            "1. Cool the burn under running water for 10 minutes. \n 2. Cover with a clean cloth. \n 3. Do not apply ice or ointments. \n 4. Visit a doctor for severe burns."
+        ]
+    },
+    {
+        "tag": "bleeding",
+        "patterns": ["How to stop bleeding?", "First aid for cuts", "Bleeding wound","bleeding"],
+        "responses": [
+            "1. Press firmly on the wound with a clean cloth. \n 2. Elevate the injured area. \n 3. Call 112 if bleeding doesn't stop."
+        ]
+    },
+    {
+        "tag": "fracture",
+        "patterns": ["Broken bone first aid", "What to do for fractures?", "Fracture treatment","fracture"],
+        "responses": [
+            "1. Keep the injured area still. \n 2. Apply ice to reduce swelling. \n 3. Use a splint or sling to immobilize. \n 4. Visit a hospital immediately."
+        ]
+    },
+    {
+        "tag": "heatstroke",
+        "patterns": ["Heatstroke first aid", "What to do for heatstroke?", "Heatstroke treatment", "heatstroke"],
+        "responses": [
+            "1. Move to a cooler place. \n 2. Remove excess clothing. \n 3. Cool with wet cloths or ice packs. \n 4. Call 112 if severe."
+        ]
+    },
+    {
+        "tag": "poisoning",
+        "patterns": ["Poisoning first aid", "What to do for poisoning?", "Poison treatment","poisoning"],
+        "responses": [
+            "1. Call 112 or Poison Control (1800-116-117). \n 2. Do not induce vomiting. \n 3. Rinse skin with water if exposed. \n 4. Provide details of the poison."
+        ]
+    },
+    {
+        "tag": "nosebleed",
+        "patterns": ["How to stop nosebleed?", "Nosebleed first aid", "Nosebleed treatment","nosebleed","nosebleeding"],
+        "responses": [
+            "1. Sit upright and lean forward. \n  2. Pinch the soft part of your nose for 10 minutes. \n  3. Apply a cold compress. \n  4. Call 112 if bleeding persists."
+        ]
+    },
+    {
+        "tag": "allergic reaction",
+        "patterns": ["Allergic reaction first aid", "What to do for allergies?", "Anaphylaxis treatment","allergic reaction","allergic","allergie"],
+        "responses": [
+            "1. Use an epinephrine auto-injector if available. \n 2. Call 112 immediately. \n 3. Lie down and elevate legs. \n 4. Monitor breathing."
+        ]
+    },
+    {
+        "tag": "snake bite",
+        "patterns": ["Snake bite first aid", "What to do for snake bite?", "Snake bite treatment","snake poison","snake bite"],
+        "responses": [
+            "1. Keep the person calm and still. \n 2. Remove tight clothing or jewelry near the bite. \n 3. Do not cut the wound or suck out venom. \n 4. Call 112 and rush to the nearest hospital."
+        ]
+    },
+    {
+        "tag": "dog bite",
+        "patterns": ["Dog bite first aid", "What to do for dog bite?", "Dog bite treatment", "dog bite"],
+        "responses": [
+            "1. Wash the wound with soap and water for 5 minutes. \n 2. Apply an antiseptic. \n 3. Visit a hospital for rabies vaccination. \n 4. Call 112 if severe."
+        ]
+    },
+    {
+        "tag": "electric shock",
+        "patterns": ["Electric shock first aid", "What to do for electric shock?", "Shock treatment","electric shock","electric"],
+        "responses": [
+            "1. Turn off the power source. \n 2. Do not touch the person directly. \n 3. Call 112 immediately. \n 4. Perform CPR if needed."
+        ]
+    },
+    {
+        "tag": "drowning",
+        "patterns": ["Drowning first aid", "What to do for drowning?", "Drowning treatment","drowning","water drown"],
+        "responses": [
+            "1. Pull the person out of the water. \n 2. Check for breathing. \n 3. Perform CPR if needed. \n 4. Call 112 immediately."
+        ]
+    },
+    {
+        "tag": "emergency contact",
+        "patterns": ["Emergency number", "Who to call in emergency?", "India emergency contact"],
+        "responses": [
+            "Call 112 for emergencies in India. \\n  For poison-related issues, call 1800-116-117 (Poison Control)."
+        ]
+    },
+    {
+        "tag": "greeting",
+        "patterns": ["hello", "hi", "hey", "greetings", "good morning", "good evening", "good afternoon"],
+        "responses": [
+          "Hello! I'm FirstAidMate, your AI-powered first-aid assistant. You can ask me about first aid for burns, CPR, choking, and more. Just type your question, and I'll guide you!",
+          "Hey there! I'm FirstAidMate, here to provide first-aid assistance. Just ask me anything related to first aid, and I'll help you out.",
+          "Hi! Need first-aid help? I'm here to guide you. Ask me about cuts, burns, fractures, or any emergency situation.",
+          "Greetings! I'm FirstAidMate, your AI assistant for first-aid queries. Type your question, and I'll provide the best possible guidance."
+        ]
+      }
+]
